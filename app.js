@@ -19,4 +19,4 @@ app.use(
 
 app.listen(PORT, () => {
   console.log(`Server is running at PORT http://localhost:${PORT}`);
-}) 
+});
